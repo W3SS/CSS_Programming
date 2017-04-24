@@ -1,0 +1,1 @@
+This repository contains scripts written during the [Computational Social Science](http://blogs.helsinki.fi/computationalsocialscience/) course 'Programming in Social Science' at the University of Helsinki in the fall of 2016. The scripts are all written in Python and are either meant for scraping data (using Beautiful Soup) or sorting it and working it.
